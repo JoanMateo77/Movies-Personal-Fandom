@@ -24,6 +24,7 @@
     "node-fetch": "^3.3.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "superjson": "^2.2.3",
     "zod": "^3.25.76"
   },
   "devDependencies": {
